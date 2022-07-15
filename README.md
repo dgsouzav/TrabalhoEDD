@@ -1,4 +1,4 @@
- Trabalho de Estrutura de Dados
+# Trabalho de Estrutura de Dados
 ### Grupo Meta - Algoritmo ShellSort
 ### Alunos: Diogo, Gilmar, Ariane e Henrique
 #
